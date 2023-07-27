@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <TeamMembers>
     <Member name="Mark">
-        <Hate name="Paul">            
-        <Hate name="Steve">
+        <Hate name="Paul"/>            
+        <Hate name="Steve"/>
     </Member>
     <Member name="Paul">
-        <Hate name="Mark">            
-        <Hate name="Luke">
-        <Hate name="Caitlyn">
+        <Hate name="Mark"/>            
+        <Hate name="Luke"/>
+        <Hate name="Caitlyn"/>
     </Member>
     <Member name="Steve">
-        <Hate name="Jack">            
-        <Hate name="Roger">
-        <Hate name="Caitlyn">
+        <Hate name="Jack"/>            
+        <Hate name="Roger"/>
+        <Hate name="Caitlyn"/>
     </Member>
     <Member name="Luke">
-        <Hate name="Evelyn">            
-        <Hate name="Caitlyn">
+        <Hate name="Evelyn"/>            
+        <Hate name="Caitlyn"/>
     </Member>
     <Member name="Caitlyn">
-        <Hate name="Luke"> 
-        <Hate name="Mark"> 
-        <Hate name="Paul">            
-        <Hate name="Steve">
-        <Hate name="Ivan">
-        <Hate name="Jack">
-        <Hate name="Roger">
+        <Hate name="Luke"/> 
+        <Hate name="Mark"/> 
+        <Hate name="Paul"/>            
+        <Hate name="Steve"/>
+        <Hate name="Ivan"/>
+        <Hate name="Jack"/>
+        <Hate name="Roger"/>
     </Member>
     <Member name="Ivan">
-        <Hate name="Luke">            
-        <Hate name="Caitlyn">            
-        <Hate name="Steve">
-        <Hate name="Evelyn">
-        <Hate name="Jack">
-        <Hate name="Roger">
+        <Hate name="Luke"/>            
+        <Hate name="Caitlyn"/>            
+        <Hate name="Steve"/>
+        <Hate name="Evelyn"/>
+        <Hate name="Jack"/>
+        <Hate name="Roger"/>
     </Member>
     <Member name="Jack">
-        <Hate name="Ivan">            
-        <Hate name="Caitlyn">
+        <Hate name="Ivan"/>            
+        <Hate name="Caitlyn"/>
     </Member>
     <Member name="Roger"/>
     <Member name="Evelyn">
-        <Hate name="Caitlyn">            
-        <Hate name="Roger">
+        <Hate name="Caitlyn"/>            
+        <Hate name="Roger"/>
     </Member>
 </TeamMembers>
