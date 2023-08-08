@@ -82,6 +82,7 @@ namespace TeamComposition
         {
             ComboBox selectedComboBox = (ComboBox)sender; //This object references the comboBox that triggered this event
             string selectedName = (string)selectedComboBox.SelectedItem; //This string contains the name of the selected item of the selected comboBox
+            selectedComboBox.IsEnabled = false;
 
             bool success = false; //Helper variable for determining fully stacked team
             bool fail = false; //Helper boolean to display the fail message in case it's impossible to finish the team
@@ -120,6 +121,7 @@ namespace TeamComposition
             foreach (ComboBox comboBox in new ComboBox[] { cb1, cb2, cb3, cb4, cb5 })
             {
                 comboBox.Items.Clear();
+                comboBox.IsEnabled = true;
             }
             FillComboBoxes();
         }
